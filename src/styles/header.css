@@ -1,0 +1,41 @@
+.navHeader {
+    width: 100;
+    height: 100;
+    background-color: white;
+    display: flex;
+    padding: 20px 24px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.navHeader {
+    background-color: #3bb7ff;
+}
+
+header a{
+    color: black;
+    font-size: 20px;
+}
+
+
+header a:hover{
+    color: white;
+}
+
+#headerimg{
+    width: 60px;
+    height: 60px;
+     
+}
+#logout {
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: white;
+    color: #3bb7ff;
+    padding: 15px;
+}
+
+#logout:hover {
+    color: black
+}

@@ -1,0 +1,68 @@
+.validate {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+.ancoraCarregar {
+  color: white;
+  font-family: "Poppins";
+  font-style: normal;
+  width: 176px;
+  height: 60px;
+  background: #1da5f1;
+  border: 7px solid rgba(77, 105, 248, 0.21);
+  border-radius: 30px;
+  margin-top: 10px;
+}
+
+.ancoraCarregar:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.line {
+  border-right: 2px solid black;
+  font-size: 3em;
+  text-align: center;
+  margin: 0 auto;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.typing-animation {
+  animation: blinkCursor 650ms infinite normal, typing 2s steps(20) 1s normal both;
+}
+
+
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 6em;
+    }
+}
+
+
+@keyframes blinkCursor {
+  from {
+    border-right-color: black;
+  }
+  to {
+    border-right-color: transparent;
+  }
+}
+
+.ancora {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  height: 0px;
+  line-height: 50px;
+}

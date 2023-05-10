@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+  html,
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .container .header img {
+    width: 300px;
+  }
+  .container {
+    margin-top: 150px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .container .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .container .header span {
+    padding-top: 15px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .container form .inputContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+  }
+  
+  .container form .inputContainer label {
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 30px;
+    
+  }
+  
+  .container form .inputContainer input {
+    width: 464px;
+    height: 60px;
+    left: 621px;
+    top: 389px;
+    padding: 14px;
+    margin-bottom: 12px;
+    
+    background: rgba(29, 165, 241, 0.74);
+    border: 7px solid rgba(77, 105, 248, 0.21);
+    border-radius: 20px;
+  }
+  
+  .container form a {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+    padding-bottom: 14px;
+    color: rgba(0, 0, 0, 0.7);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .container form a:hover{
+    font-size: 17px;
+    color: #1da5f1;
+  }
+  
+  .container form .button {
+    color: white;
+    font-family: "Poppins";
+    font-style: normal;
+    width: 176px;
+    height: 60px;
+    left: 757px;
+    top: 595px;
+    background: #1da5f1;
+    border: 7px solid rgba(77, 105, 248, 0.21);
+    border-radius: 30px;
+  }
+  
+  .container form .button img{
+      margin-right: 10px;
+      
+  }
+  
+  .container form .button:hover{
+      cursor: pointer;
+      opacity: 0.8;
+  }
+  
+  .container form .footer {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+  }
+  
+  .container form .footer p{
+      margin-top: 14px;
+  }
+  input::placeholder {
+      font-family: "Poppins";
+      color: black
+  }

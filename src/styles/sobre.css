@@ -1,0 +1,26 @@
+.containerSobre {
+  
+  display: grid;
+  grid-auto-flow: column;
+  background-color: #0092e3;
+  color: white;
+  align-items: center;
+}
+div#TituloSobre {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.containerSobre2{
+    display: grid;
+    grid-auto-flow: column;
+}
+h2#subtituloSobre {
+  margin-top: 50px;
+  text-align: center;
+  color: #48bdff;
+}
+p#paragrafoSobre{
+    margin-left: 25px;
+    margin-bottom: 50px;
+}

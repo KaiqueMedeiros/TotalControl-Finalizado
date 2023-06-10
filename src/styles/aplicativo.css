@@ -1,0 +1,9 @@
+body {
+    background-color: #fff;
+}
+#titulo{
+    text-align: center;
+    margin-top: 50px;
+    color: #3bb7ff;
+    text-shadow: 1px 1px 1px rgb(105, 105, 105);
+}

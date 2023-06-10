@@ -1,4 +1,4 @@
-import logo from "../../assets/logo2.png";
+import logo from "../../assets/logo2-login.png";
 import arrow from "../../assets/icone-entrar.svg";
 import "../../styles/login.css";
 import "../../styles/validateLog.css"
@@ -14,7 +14,7 @@ function LoginApp() {
     const usuario = event.target.elements.usuario.value;
     const senha = event.target.elements.senha.value;
 
-    if (usuario === "Kaique" && senha === "salve") {
+    if (usuario === "Kaique" && senha === "teste123") {
       setIsLoggedIn(true);
       setUserId(usuario);
     } else {

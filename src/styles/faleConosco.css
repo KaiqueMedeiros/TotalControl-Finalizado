@@ -1,0 +1,58 @@
+div.containerForm {
+  width: 100%;
+  display: grid;
+  grid-auto-flow: column;
+  padding-top: 0px;
+  margin-top: 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+div#inputs {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.formLabel {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+img#imagemForm {
+  width: 400px;
+  height: 400px;
+}
+#tituloFormulario {
+  margin-top: 25px;
+  text-align: center;
+  align-items: center;
+}
+.inputsForm {
+  border: none;
+  background-color: #3bb7ff;
+  border-radius: 10px;
+  width: 300px;
+  height: 50px;
+  padding-left: 10px;
+}
+textarea {
+  border: 1px solid;
+  border-radius: 10px;
+  padding-left: 5px;
+  padding-top: 5px;
+  background-color: #ccc;
+}
+input#submitForm{
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3bb7ff;
+}
+input#submitForm:hover{
+    color: white;
+    background-color: #3eacec;
+    cursor: pointer;
+    transform: translateY(-5px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 15px 15px  #19242994;
+}

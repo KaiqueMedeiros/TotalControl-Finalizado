@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import "../../styles/header.css"
-import Logo from "../../assets/logo.png"
+import Logo from "../../assets/logo-header.png"
 
 function Header() {
   return (
@@ -8,8 +8,8 @@ function Header() {
       <div class="navHeader">
         <img id="headerimg" src ={Logo} />
         <Link to="/aplicativo.js"> Home </Link>
-        <Link to="/contato">Contato</Link>
         <Link to="/sobre">Sobre nós </Link>
+        <Link to="/faleconosco"> Fale conosco </Link>
         <Link id ="logout"to="/"> Logout </Link>
       </div>
     </header>

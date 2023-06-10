@@ -5,4 +5,11 @@
 
 Trabalho feito durante o Segundo semestre de TADS no Centro Universitário Senac Santo Amaro.
 
-Foi completamente desafiador, afinal foram várias tecnologias implementadas durante a contrução do site.
+Foi completamente desafiador, afinal foram várias tecnologias implementadas durante a construção do site.
+
+Login Validado:
+
+Usuário: Kaique
+Senha: teste123
+
+Qualquer outro usuário vai retornar um erro.

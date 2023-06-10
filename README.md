@@ -9,7 +9,7 @@ Foi completamente desafiador, afinal foram várias tecnologias implementadas dur
 
 Login Validado:
 
-Usuário: Kaique
+Usuário: Kaique <br>
 Senha: teste123
 
 Qualquer outro usuário vai retornar um erro.

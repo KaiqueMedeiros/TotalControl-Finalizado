@@ -58,7 +58,7 @@ function LoginApp() {
           />
         </div>
 
-        <a href="">Esqueceu sua senha?</a>
+        <a href="https://www.google.com/">Esqueceu sua senha?</a>
         <button className="button" type="submit">
           <img src={arrow} alt="" />
           Entrar

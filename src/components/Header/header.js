@@ -6,7 +6,7 @@ function Header() {
   return (
     <header class>
       <div class="navHeader">
-        <img id="headerimg" src ={Logo} />
+        <img id="headerimg" src ={Logo} alt="Logo" />
         <Link to="/aplicativo.js"> Home </Link>
         <Link to="/sobre">Sobre nós </Link>
         <Link to="/faleconosco"> Fale conosco </Link>

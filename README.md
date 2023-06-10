@@ -7,6 +7,9 @@ Trabalho feito durante o Segundo semestre de TADS no Centro Universitário Senac
 
 Foi completamente desafiador, afinal foram várias tecnologias implementadas durante a construção do site.
 
+Link do aplicativo: <br>
+https://totalcontrol-kaique-medeiros.netlify.app/
+
 Login Validado:
 
 Usuário: Kaique <br>

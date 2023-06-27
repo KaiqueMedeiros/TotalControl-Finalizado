@@ -1,24 +1,23 @@
-# TotalControl-Finalizado
+#  🚀 TotalControl 🚀
 
-<h1> Progração Web </h1>
+<h1> Web Programming </h1>
 <h2> TotalControl </h2>
 
-Trabalho feito durante o Segundo semestre de TADS no Centro Universitário Senac Santo Amaro.
+### ⚙️ Work done during the second semester of TADS at Centro Universitário Senac Santo Amaro. ⚙️
 
-Foi completamente desafiador, afinal foram várias tecnologias implementadas durante a construção do site.
+### 📚 It was quite challenging, as there were several technologies implemented during the construction of the website, such as HTML, CSS, JavaScript, and ReactJS! 📚
 
-Link do aplicativo: <br>
+### 🖥️ Application Link: 🖥️ <br>
 https://totalcontrol-kaique-medeiros.netlify.app/
 
-Planilha: <br>
+### Spreadsheet: <br>
 https://docs.google.com/spreadsheets/d/10pynmJi6VzMs7f-89RyOmZmo9Dhbx75onD5T9qH1ufs/edit#gid=0
 
-Login Validado:
+Validated Login:
 
-Usuário: Kaique <br>
-Senha: teste123
+Username: Kaique <br>
+Password: teste123
 
-Qualquer outro usuário vai retornar um erro.
+Any other user will return an error.
 
-
-<h2> Para visualizar os arquivos do projeto na "Branch" selecione a Branch "Master". 
+### To view the project files on the "Master" branch, select the "Master" branch.
